@@ -1,4 +1,5 @@
 <h1>Trabalhos e atividade de Inteligência Artificial</h1>
+<br/>
 `git clone https://github.com/XLucasHoffmannX/searches-ai.git`
 <br />
 Atividades primeiro bismestre: `git checkout primeirobimestre `
